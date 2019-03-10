@@ -1,0 +1,16 @@
+.container{
+    background-color: #02a0e9;
+    opacity: 0.1;
+    text-align: center;
+}
+#mainHeader{
+    background-image: url(https://www.acuteshop.com/media/catalog/category/_banner.png);
+}
+
+.jumbotron {
+    background-color: antiquewhite;    
+}
+
+.row{
+    background-color: lightcyan;
+}
